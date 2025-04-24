@@ -90,4 +90,10 @@
     <string name="in_game_calls_auto_reject">Auto reject</string>
     <string name="in_game_calls_received_number">Received call from %1$s</string>
     <string name="in_game_calls_rejected_number">Rejected call from %1$s</string>
+    
+    <!-- Danmaku Notification Mode -->
+    <string name="danmaku_notification_mode_title">Danmaku Notification mode</string>
+    <string name="danmaku_notification_mode_summary">Show notification as danmaku aka bullet comments while game is active</string>
+    
+    <string name="gamespace_running">Game Space is running</string>
 </resources>
